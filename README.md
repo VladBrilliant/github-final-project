@@ -1,11 +1,5 @@
 # github-final-project
 
-   <!-- ===================== -->
-<!--   OFFICIAL SECTION   -->
-<!-- ===================== -->
-
-# Simple Interest Calculator 💰
-
 A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
 **Input:**
@@ -14,54 +8,43 @@ A calculator that calculates simple interest given principal, annual rate of int
 - r, annual rate of interest  
 
 **Output:**
-- simple interest = p *t*r 
+- simple interest = p * t * r
 
 ---
 
-<br>
+```
+═══════════════════════════════════════════════════════════════════════
+   SIMPLE INTEREST CALCULATOR — IBM × VladBrilliant Project
+═══════════════════════════════════════════════════════════════════════
+```
 
-<!-- ===================== -->
-<!--   CREATIVE SECTION   -->
-<!-- ===================== -->
+![GitHub Repo stars](https://img.shields.io/github/stars/VladBrilliant/github-final-project?style=flat-square&color=0A74DA)
+![GitHub forks](https://img.shields.io/github/forks/VladBrilliant/github-final-project?style=flat-square&color=1F6FEB)
+![GitHub license](https://img.shields.io/github/license/VladBrilliant/github-final-project?style=flat-square&color=0E8A16)
+![GitHub last commit](https://img.shields.io/github/last-commit/VladBrilliant/github-final-project?style=flat-square&color=F7DC6F)
 
-<div align="center">
+---
 
-```text
-╔═══════════════════════════════════════════════════════════╗
-║   SIMPLE INTEREST CALCULATOR — IBM x VladBrilliant Project ║
-╚═══════════════════════════════════════════════════════════╝
+## ⚙️ Overview
 
-</div> <div align="center">
+This repository is part of the **IBM Git & GitHub Course Final Project**.  
+It demonstrates the complete Git workflow using both **GitHub UI** and **Git CLI** —  
+from repository creation to collaboration and version control.
 
+---
 
+## 🧠 Features
+- 🧮 Calculates Simple Interest (`p * t * r / 100`)
+- 💬 Interactive terminal prompts
+- ⚖️ Licensed under [Apache 2.0 License](LICENSE)
+- 👥 Includes [Code of Conduct](CODE_OF_CONDUCT.md)
+- 🤝 Open to contributions ([Contributing Guide](CONTRIBUTING.md))
 
+---
 
+## 🧩 File Structure
 
-
-
-
-</div>
-
-⚙️ Overview
-
-This repository is part of the IBM Git & GitHub Course Final Project.
-It demonstrates the complete Git workflow using both GitHub UI and Git CLI —
-from repository creation to collaboration and version control
-
-🧠 Features
-
-🧮 Calculates Simple Interest (p * t * r / 100)
-
-💬 Interactive terminal prompts
-
-⚖️ Licensed under Apache 2.0 License
-
-👥 Includes Code of Conduct
-
-🤝 Open to contributions (Contributing Guide
-)
-
-🧩 File Structure
+```
 github-final-project/
 │
 ├── README.md
@@ -69,12 +52,22 @@ github-final-project/
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 └── simple-interest.sh
+```
 
-🧭 Usage
+---
+# Simple Interest Calculator 💰
+
+## ⚙️ Usage
 
 Run the script in your terminal:
-bash simple-interest.sh
 
+```bash
+bash simple-interest.sh
+```
+
+**Example:**
+
+```
 Enter the principal:
 1000
 Enter rate of interest per year:
@@ -83,20 +76,19 @@ Enter time period in years:
 2
 The simple interest is:
 100
+```
 
-🌐 Visual Identity
-<div align="center">
+---
 
-🎨 Color Theme:
-🖤 IBM Black (header)  🔵 IBM Blue (core section)  ⚪ Clean minimal contrast
+## 🌐 Visual Identity
 
-💡 “Clarity is the most elegant design.”
+🎨 **Color Theme:**  
+🖤 IBM Black (header) 🔵 IBM Blue (core section) ⚪ Clean minimal contrast  
 
-</div>
-<div align="center">
+💡 *"Clarity is the most elegant design."*
 
-Made with ❤️ in collaboration with
-IBM Skills Network Labs
-and version-controlled on GitHub
+---
 
-</div> ```
+Made with ❤️ in collaboration with  
+**IBM Skills Network Labs**  
+and version-controlled on [GitHub](https://github.com/VladBrilliant/github-final-project)
